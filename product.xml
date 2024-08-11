@@ -2,6 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="product.xsl"?>
 
 <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="product.xsd">
+
+    <!-- xmlns="http://www.example.com/products" -->
+          <!-- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.example.com/products product.xsd"> -->
     
     <product category="rice">
         <name>Rice</name>
@@ -49,7 +53,7 @@
     
     <product category="cooking_oil">
         <name>Cooking Oil</name>
-        <price>120</price>
+        <price>100</price>
         <quantity>100</quantity>
         <product_image>oil.jpg</product_image>
         <discount>10</discount>
