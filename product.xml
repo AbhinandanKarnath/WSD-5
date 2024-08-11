@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="product.xsd">
+    
+    <product category="rice">
+        <name>Rice</name>
+        <price>50</price>
+        <quantity>200</quantity>
+        <product_image>rice.jpg</product_image>
+        <discount>3</discount>
+        <product_code>42</product_code>
+        <description>High-quality rice.</description>
+        <product_from>India</product_from>
+    </product>
+    
+    <product category="wheat">
+        <name>Wheat</name>
+        <price>45</price>
+        <quantity>150</quantity>
+        <product_image>wheat.jpg</product_image>
+        <discount>5</discount>
+        <product_code>43</product_code>
+        <description>Organic wheat grains.</description>
+        <product_from>USA</product_from>
+    </product>
+    
+    <product category="sugar">
+        <name>Sugar</name>
+        <price>30</price>
+        <quantity>300</quantity>
+        <product_image>sugar.jpg</product_image>
+        <discount>2</discount>
+        <product_code>44</product_code>
+        <description>Pure cane sugar.</description>
+        <product_from>Brazil</product_from>
+    </product>
+    
+    <product category="salt">
+        <name>Salt</name>
+        <price>20</price>
+        <quantity>500</quantity>
+        <product_image>salt.jpg</product_image>
+        <discount>1</discount>
+        <product_code>45</product_code>
+        <description>Refined table salt.</description>
+        <product_from>Australia</product_from>
+    </product>
+    
+    <product category="cooking_oil">
+        <name>Cooking Oil</name>
+        <price>120</price>
+        <quantity>100</quantity>
+        <product_image>oil.jpg</product_image>
+        <discount>10</discount>
+        <product_code>46</product_code>
+        <description>Sunflower cooking oil.</description>
+        <product_from>Ukraine</product_from>
+    </product>
+    
+    <product category="tea">
+        <name>Tea</name>
+        <price>80</price>
+        <quantity>250</quantity>
+        <product_image>tea.jpg</product_image>
+        <discount>7</discount>
+        <product_code>47</product_code>
+        <description>Premium black tea.</description>
+        <product_from>China</product_from>
+    </product>
+    
+    <product category="coffee">
+        <name>Coffee</name>
+        <price>150</price>
+        <quantity>120</quantity>
+        <product_image>coffe.jpg</product_image>
+        <discount>8</discount>
+        <product_code>48</product_code>
+        <description>Rich Arabica coffee beans.</description>
+        <product_from>Colombia</product_from>
+    </product>
+    
+    <product category="flour">
+        <name>Flour</name>
+        <price>40</price>
+        <quantity>350</quantity>
+        <product_image>flour.png</product_image>
+        <discount>4</discount>
+        <product_code>49</product_code>
+        <description>All-purpose flour.</description>
+        <product_from>Canada</product_from>
+    </product>
+
+</products>
